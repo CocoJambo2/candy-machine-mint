@@ -15,14 +15,30 @@ code {
 }
 /* $brand_color: #870101; */
 
+
 @font-face {
     font-family: "CorleoneDue";
     src: local('CorleoneDue'), url(./assets/fonts/CorleoneDue.ttf) format("truetype");
 }
 
 @font-face {
+  font-family: "Etna";
+  src: url(./assets/fonts/Etna.ttf) format("truetype");
+}
+
+@font-face {
     font-family: "Corleone";
     src: url(./assets/fonts/Corleone.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Notalot60";
+    src: url(./assets/fonts/Notalot60.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Minitel";
+  src: url(./assets/fonts/Minitel.ttf) format("truetype");
 }
 
 @font-face {
